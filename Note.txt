@@ -1,0 +1,8 @@
+https://angular.io/guide/creating-libraries
+https://angular.io/cli/generate#library-command
+
+C:\Temp>ng new my-angular8-app
+? Would you like to add Angular routing? Yes
+? Which stylesheet format would you like to use? SCSS   [ https://sass-lang.com/documentation/syntax#scss                ]
+
+C:\Temp\my-angular8-app>ng generate library ea-ui --prefix=eui
